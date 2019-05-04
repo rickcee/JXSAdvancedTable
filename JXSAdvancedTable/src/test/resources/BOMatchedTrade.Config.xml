@@ -1,0 +1,80 @@
+<config>
+  <clazz>com.bss.swingxs.model.test.BOMatchedTrade</clazz>
+  <attributes>
+    <attribute>
+      <name>entityId</name>
+      <label>Entity ID</label>
+      <position>0</position>
+    </attribute>
+    <attribute>
+      <name>customerId</name>
+      <label>Customer ID</label>
+      <position>1</position>
+    </attribute>
+    <attribute>
+      <name>transactionNumber</name>
+      <label>Transaction Number</label>
+      <position>2</position>
+    </attribute>
+    <attribute>
+      <name>buySellCode</name>
+      <label>Buy / Sell Code</label>
+      <position>3</position>
+    </attribute>
+    <attribute>
+      <name>quantity</name>
+      <label>Quantity</label>
+      <position>4</position>
+    </attribute>
+    <attribute>
+      <name>price</name>
+      <label>Price</label>
+      <position>5</position>
+    </attribute>
+    <attribute>
+      <name>principal</name>
+      <label>Principal</label>
+      <position>6</position>
+    </attribute>
+    <attribute>
+      <name>tradeCurrency</name>
+      <label>Trade Currency</label>
+      <position>7</position>
+    </attribute>
+    <attribute>
+      <name>settlementCurrency</name>
+      <label>Settlement Currency</label>
+      <position>8</position>
+    </attribute>
+    <attribute>
+      <name>tradeDate</name>
+      <label>Trade Date</label>
+      <position>9</position>
+    </attribute>
+    <attribute>
+      <name>settlementDate</name>
+      <label>Settlement Date</label>
+      <position>10</position>
+    </attribute>
+    <attribute>
+      <name>cusip</name>
+      <label>CUSIP</label>
+      <position>11</position>
+    </attribute>
+    <attribute>
+      <name>isin</name>
+      <label>ISIN</label>
+      <position>12</position>
+    </attribute>
+    <attribute>
+      <name>sedol</name>
+      <label>SEDOL</label>
+      <position>13</position>
+    </attribute>
+    <attribute>
+      <name>notes</name>
+      <label>Notes</label>
+      <position>14</position>
+    </attribute>
+  </attributes>
+</config>
