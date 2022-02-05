@@ -85,7 +85,7 @@ public class TabbedTableDemo extends JXFrame {
 	 */
 	public static void main(String[] args) throws Exception {
 		UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-		final TabbedTableDemo frame = new TabbedTableDemo("SwingXS Tabbed Frame", true);
+		final TabbedTableDemo frame = new TabbedTableDemo("JXSAdvancedTable Demo", true);
 
 		frame.createView();
 
